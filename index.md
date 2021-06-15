@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    <p><span style="color:#FFFFFF"><span style="font-size:20px"><strong><span style="background-color:#00a685">　プライバシーポリシー (個人情報保護方針)　</span></strong></span></span><br />
+    <p><span style="color:#FFFFFF"><span style="font-size:20px"><strong><span style="background-color:#00a685">プライバシーポリシー (個人情報保護方針)</span></strong></span></span><br />
     <span style="font-size:12px">株式会社キュー（以下「当社」といいます）は、以下のとおり個人情報保護方針を定め、個人情報保護の仕組みを構築し、<br />
     全従業員に個人情報保護の重要性の認識と取組みを徹底させることにより、個人情報の保護を推進致します。<br />
     <strong>個人情報の管理</strong><br />
