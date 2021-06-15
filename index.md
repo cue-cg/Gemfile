@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title></title>
   </head>
   <body>
     <p><span style="color:#FFFFFF"><span style="font-size:20px"><strong><span style="background-color:#00a685">　プライバシーポリシー (個人情報保護方針)　</span></strong></span></span><br />
